@@ -1,1 +1,1 @@
-# Covid-19 Visualizer
+# Covid-19 Visualizer App
